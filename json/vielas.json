@@ -1,0 +1,32 @@
+[
+  {
+    "apakstips": "s\u0101ls",
+    "daudzums": 100.0,
+    "id": 2,
+    "komentari": "",
+    "mervienibas": "g",
+    "nosaukums": "Kalcija karbon\u0101ts CaCO3",
+    "skaits": 25,
+    "tips": "rea\u0123ents"
+  },
+  {
+    "apakstips": "hidroks\u012bds",
+    "daudzums": 50.0,
+    "id": 3,
+    "komentari": "\u0160\u0137\u012bdums izvedots un sapild\u012bts 2020.09.23",
+    "mervienibas": "ml",
+    "nosaukums": "NaOH \u0161\u0137\u012bdums 10%",
+    "skaits": 45,
+    "tips": "rea\u0123ents"
+  },
+  {
+    "apakstips": "hidroks\u012bds",
+    "daudzums": 50.0,
+    "id": 4,
+    "komentari": "\u0160\u0137\u012bdums izvedots un sapild\u012bts 2020.09.23",
+    "mervienibas": "ml",
+    "nosaukums": "NaOH \u0161\u0137\u012bdums 10%",
+    "skaits": 45,
+    "tips": "rea\u0123ents"
+  }
+]

@@ -1,0 +1,94 @@
+﻿{
+    "noliktava": [
+        {
+            "ID": "KL1042724",
+            "Nosaukums": "Katalizators",
+            "Tips": "Aprīkojums",
+            "Apakštips": "Trauks",
+            "Skaits": "12",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042701",
+            "Nosaukums": "Birete",
+            "Tips": "Aprīkojums",
+            "Apakštips": "Trauks",
+            "Skaits": "83",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042702",
+            "Nosaukums": "HCl",
+            "Tips": "Viela",
+            "Apakštips": "Skābe",
+            "Skaits": "28",
+            "Svars": "100",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042703",
+            "Nosaukums": "Kolba",
+            "Tips": "Aprīkojums",
+            "Apakštips": "Trauks",
+            "Skaits": "19",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042705",
+            "Nosaukums": "Mēģeņu turētājs",
+            "Tips": "Aprīkojums",
+            "Apakštips": "Trauks",
+            "Skaits": "28",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042706",
+            "Nosaukums": "Fe",
+            "Tips": "Viela",
+            "Apakštips": "Metāls",
+            "Skaits": "16",
+            "Svars": "40",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042707",
+            "Nosaukums": "NaCl",
+            "Tips": "Viela",
+            "Apakštips": "Sāls",
+            "Skaits": "45",
+            "Svars": "25"
+        },
+        {
+            "ID": "KL1042708",
+            "Nosaukums": "El. plītiņa",
+            "Tips": "Aprīkojums",
+            "Apakštips": "Iekārta",
+            "Skaits": "9",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042709",
+            "Nosaukums": "Mēģene",
+            "Tips": "Aprīkojums",
+            "Apakštips": "Trauks",
+            "Skaits": "12",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042710",
+            "Nosaukums": "Menzūra",
+            "Tips": "Aprīkojums",
+            "Apakštips": "Trauks",
+            "Skaits": "24",
+            "Komentāri": "Daži komentāri"
+        },
+        {
+            "ID": "KL1042704",
+            "Nosaukums": "Mēģeņu statīvs",
+            "Tips": "Aprīkojums",
+            "Apakštips": "Trauks",
+            "Skaits": "16",
+            "Komentāri": "Daži komentāri"
+        }
+    ]
+}

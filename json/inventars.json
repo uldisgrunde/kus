@@ -1,0 +1,26 @@
+[
+  {
+    "apakstips": "meh\u0101niskie svari",
+    "id": 1,
+    "komentari": "",
+    "nosaukums": "Meh\u0101niskie svari QWS",
+    "skaits": 5,
+    "tips": "svari"
+  },
+  {
+    "apakstips": "elektroniskie svari",
+    "id": 2,
+    "komentari": "Darbojas uz 3 AAA tipa baterij\u0101m",
+    "nosaukums": "Elektroniskie svari ES-25",
+    "skaits": 15,
+    "tips": "svari"
+  },
+  {
+    "apakstips": "pl\u012bti\u0146a",
+    "id": 3,
+    "komentari": "Str\u0101vas vada garums 1m",
+    "nosaukums": "Elektrisk\u0101 pl\u012bt\u012b\u0146a",
+    "skaits": 8,
+    "tips": "sild\u012bt\u0101js"
+  }
+]
